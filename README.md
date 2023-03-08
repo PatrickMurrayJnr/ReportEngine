@@ -47,5 +47,17 @@ Another XML output file.
 13. DataSourcesSQLlite <br/>
 SQL Lite output database.
 
+14. MultiIf <br/>
+Example showing how paramaters work with IF statements.
+
+15. FixedWidthGrouping <br/>
+Shows an example of a BACS file with groupings.
+
+16. DifferentFilesStructures <br/>
+Show three txt files being created and with different data Structures within them.
+
+17. MultiReportDifferentTypes <br/>
+Different files exporting in one report. Files are PDF, XLSX, XML and DOCX file.
+
 
 
