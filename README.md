@@ -21,22 +21,31 @@ This will put a password on an excel sheet when it has been run.
 This will put a password on an PDF (via Xtra) report when it has been run.
 
 06. XmlOutput <br/>
+Outputs a XML file.
 
 07. IcsExport <br/>
+Output a ICS for a view.
 
 08. SplitReportDiffOutputSameFileType <br/>
+Splits report on attrubute. Has different layouts per attrubite.
 
 09. TxtExport <br/>
+Out put file as a Txt file.
 
 10. GetDocumentFromArchive <br/>
+Gets document from the document archive.
 
 11. WorderatorMailMerge <br/>
+Uses Word to do mail merges.
 
 12. CreateCsvAndTextFiles <br/>
+Outputs files to Txt and Csv.
 
 12. XmlOutput <br/>
+Another XML output file.
 
 13. DataSourcesSQLlite <br/>
+SQL Lite output database.
 
 
 
