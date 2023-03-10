@@ -59,5 +59,8 @@ Show three txt files being created and with different data Structures within the
 17. MultiReportDifferentTypes <br/>
 Different files exporting in one report. Files are PDF, XLSX, XML and DOCX file.
 
+18. DataDictionary
+Downloads and formats the tables structure of Unit4 ERP.
+
 
 
