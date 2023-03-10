@@ -30,7 +30,7 @@ Output a ICS for a view.
 Splits report on attrubute. Has different layouts per attrubite.
 
 09. TxtExport <br/>
-Out put file as a Txt file.
+Output file as a Txt file.
 
 10. GetDocumentFromArchive <br/>
 Gets document from the document archive.
