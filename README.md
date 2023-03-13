@@ -62,5 +62,7 @@ Different files exporting in one report. Files are PDF, XLSX, XML and DOCX file.
 18. DataDictionary <br/>
 Downloads and formats the tables structure of Unit4 ERP.
 
+19. BrandedEmailing <br/>
+This file productes the HTML to create a well-branded email for you customers/suppliers etc.
 
 
