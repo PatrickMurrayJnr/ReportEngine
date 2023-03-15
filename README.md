@@ -65,7 +65,7 @@ Downloads and formats the tables structure of Unit4 ERP.
 19. BrandedEmailing <br/>
 File produces the HTML to create a well-branded email for you customers/suppliers etc.
 
-20. DataExport <br\>
+20. DataExport <br/>
 This shows how to place files into the Unit4 ERP data export folder.
 
 
