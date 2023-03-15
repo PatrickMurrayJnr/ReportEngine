@@ -41,9 +41,6 @@ Uses Word to do mail merges.
 12. CreateCsvAndTextFiles <br/>
 Outputs files to Txt and Csv.
 
-12. XmlOutput <br/>
-Another XML output file.
-
 13. DataSourcesSQLlite <br/>
 SQL Lite output database.
 
