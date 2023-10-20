@@ -65,4 +65,6 @@ File produces the HTML to create a well-branded email for you customers/supplier
 20. DataExport <br/>
 This shows how to place files into the Unit4 ERP data export folder.
 
+21. MultiDifferentFilesColumns <br/>
+Show's an export to csv. Each file has a differnt data structure.
 
