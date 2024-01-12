@@ -68,6 +68,6 @@ This shows how to place files into the Unit4 ERP data export folder.
 21. MultiDifferentFilesColumns <br/>
 Show's an export to csv. Each file has a differnt data structure.
 
-22. 22. FlexiFieldsviaLoop <br/>
+22. FlexiFieldsviaLoop <br/>
 Shows how to loop over data and get Flexi-Field data.
 
