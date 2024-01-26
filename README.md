@@ -71,3 +71,5 @@ Show's an export to csv. Each file has a differnt data structure.
 22. FlexiFieldsviaLoop <br/>
 Shows how to loop over data and get Flexi-Field data.
 
+22. InListQuery <br/>
+Shows how to create a inlist query using server report spaced with commas.
