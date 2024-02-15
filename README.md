@@ -76,3 +76,7 @@ Shows how to create a inlist query using server report spaced with commas.
 
 24. PDFContent <br/>
 Shows how you can embed PDF files for the document archive within Xtra report. Think T&Cs.
+
+25. RowCounterAddColumn <br/>
+Adds a new row counter using the $$rowcounter command.
+
