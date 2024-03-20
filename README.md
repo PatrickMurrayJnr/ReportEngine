@@ -80,3 +80,8 @@ Shows how you can embed PDF files for the document archive within Xtra report. T
 25. RowCounterAddColumn <br/>
 Adds a new row counter using the $$rowcounter command.
 
+26. CloudDatabaseSize <br/>
+Show the database size in MB of any system.
+
+https://github.com/PatrickMurrayJnr/ReportEngine/tree/main
+
