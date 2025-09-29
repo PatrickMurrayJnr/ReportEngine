@@ -91,4 +91,9 @@ All the CB10 reports made in to one PDF output.
 28. Bookmarks-TOC  <br/>
 Example file using bookmarks/TOC in a Xtra file.
 
+CreateBlankRowDataset <br/>
+Create a blank rows dataset using a IF statement, where you need the file created if data or not.
+
+
+
 
